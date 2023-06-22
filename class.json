@@ -1,0 +1,50 @@
+[
+    {
+        "className": "Guitar Class",
+        "image": "https://templatekit.tokomoo.com/musicschool/wp-content/uploads/sites/91/2022/08/guitar.png",
+        "availableSet": 45,
+        "instructorName": "John Doe",
+        "email": "john.doe@example.com",
+        "price": 50
+    },
+    {
+        "className": "Piano Class",
+        "image": "https://templatekit.tokomoo.com/musicschool/wp-content/uploads/sites/91/2022/08/piano.png",
+        "availableSet": 30,
+        "instructorName": "Jane Smith",
+        "email": "john.doe@example.com",
+        "price": 65
+    },
+    {
+        "className": "Drum Class",
+        "image": "https://templatekit.tokomoo.com/musicschool/wp-content/uploads/sites/91/2022/08/bass-drum.png",
+        "availableSet": 40,
+        "instructorName": "Michael Johnson",
+        "email": "john.doe@example.com",
+        "price": 55
+    },
+    {
+        "className": "Violin Class",
+        "image": "https://templatekit.tokomoo.com/musicschool/wp-content/uploads/sites/91/2022/08/violin.png",
+        "availableSet": 38,
+        "instructorName": "Juliana Silva",
+        "email": "john.doe@example.com",
+        "price": 60
+    },
+    {
+        "className": "Saxophone",
+        "image": "https://templatekit.tokomoo.com/musicschool/wp-content/uploads/sites/91/2022/08/saxophone.png",
+        "availableSet": 66,
+        "instructorName": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "price": 87
+    },
+    {
+        "className": "Flute Class",
+        "image": "https://i.ibb.co/HYX5SXD/pngtree-acoustic-wooden-guitar-vector-clipart…",
+        "availableSet": 25,
+        "instructorName": "John Doe",
+        "email": "michael.johnson@example.com",
+        "price": 45
+    }
+]
